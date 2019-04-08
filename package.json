@@ -1,0 +1,25 @@
+{
+  "name": "koaServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/org0000h/koaServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/org0000h/koaServer/issues"
+  },
+  "homepage": "https://github.com/org0000h/koaServer#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0"
+  }
+}
